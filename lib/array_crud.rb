@@ -39,4 +39,3 @@ end
 def update_element_from_index(array, index_number, element)
 
 end
-add_element_to_start_of_array(["hello"], ["hey"])
