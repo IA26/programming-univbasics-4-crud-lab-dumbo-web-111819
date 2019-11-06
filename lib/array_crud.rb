@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
   myArr = []
   myArr.push(array, element)
 end
-add_element_to_start_of_array("hello", "hey")
+
 def add_element_to_start_of_array(array, element)
   myArr = []
   myArr.unshift(array, element) 
@@ -39,3 +39,4 @@ end
 def update_element_from_index(array, index_number, element)
 
 end
+add_element_to_start_of_array("hello", "hey")
